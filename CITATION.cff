@@ -1,35 +1,33 @@
-cff-version: 1.2.0
-
-title: NanoAmorphizer
+cff-version: "1.2.0"
 
 message: "If you use NanoAmorphizer in academic or scientific work, please cite this software using the metadata provided in this file."
 
+title: "NanoAmorphizer"
+
 type: software
 
-author:
-  - family-names: Mendoza
-    given-names: Carolina
+authors:
+  - family-names: "Mendoza-Ramirez"
+    given-names: "Miriam Carolina"
     orcid: "https://orcid.org/0000-0002-6740-6924"
-  
-    email: "mc.mendoza@inaoep.mx" 
+    affiliation: "Coordinacion de Electronica, Laboratorio de Microscopia Electronica Fase 2 - Microscopia Electronica de Transmision, Instituto Nacional de Astrofisica, Optica y Electronica (INAOE), Puebla, Mexico"
+    email: "mc.mendoza@inaoep.mx"
+
+version: "1.0.0"
 
 doi: "10.5281/zenodo.22712654"
 
 repository-code: "https://github.com/artcodeelectrons/NanoAmorphizer"
 
-version: 1.0.0
+license: "GPL-3.0"
 
-date-released: 2026-09-10
-
-license: GPL-3.0
-
-abstract: "NanoAmorphizer is a Python tool for rapid geometric generation of finite nanoparticle models with controlled surface disorder from CIF crystal structures, intended for scientific visualization and didactic use."
+abstract: "NanoAmorphizer is a Python tool for rapid geometric generation of finite nanoparticle models with controlled structurally disordered surface shells from CIF crystal structures, intended for scientific visualization and didactic use."
 
 keywords:
-  - nanoparticles
-  - crystallography
-  - amorphous shell
-  - CIF
-  - atomic structures
-  - scientific visualization
-  - Python
+  - "nanoparticles"
+  - "crystallography"
+  - "amorphous shell"
+  - "CIF"
+  - "atomic structures"
+  - "scientific visualization"
+  - "Python"
