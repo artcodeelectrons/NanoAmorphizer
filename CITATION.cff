@@ -13,6 +13,10 @@ author:
   
     email: "mc.mendoza@inaoep.mx" "micame.rmz@gmail.com"
 
+doi: "10.5281/zenodo.22712654"
+
+repository-code: "https://github.com/artcodeelectrons/NanoAmorphizer"
+
 version: 1.0.0
 
 date-released: 2026-09-10
