@@ -71,8 +71,8 @@ Generated atomic structures are exported in `.xyz` format.
 
 Depending on the selected workflow, NanoAmorphizer can generate:
 
-* a crystalline spherical nanoparticle;
-* a nanoparticle containing a crystalline core and a structurally disordered surface shell.
+* A crystalline spherical nanoparticle;
+* A nanoparticle containing a crystalline core and a structurally disordered surface shell.
 
 The resulting XYZ files can be opened directly in compatible atomistic visualization software.
 
