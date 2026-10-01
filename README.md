@@ -37,7 +37,6 @@ The principal dependencies are:
 numpy
 ase
 ```
-
 ## Basic usage
 
 From the NanoAmorphizer project directory:
@@ -45,7 +44,7 @@ From the NanoAmorphizer project directory:
 ```bash
 cd src
 python cli.py
-
+```
 The program will request the CIF structure and the parameters required for nanoparticle generation.
 
 The standard workflow consists of:
